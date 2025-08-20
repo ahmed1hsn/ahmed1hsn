@@ -4,38 +4,38 @@ ahmedgeo13@gmail.com **|** (+971) 56 945-1094 **|** Dubai, United Arab Emirates 
 
 **WORK EXPERIENCE**
 
-**AirRetailer									          	   	  July. 2022 – Present**  
+**AirRetailer**									          	   	  July. 2022 – Present  
 *Full Stack Developer										     	    Dubai, UAE*
 
 * Analyzed business requirements. Built data models, data structures, business logic, workflows, user interfaces.  
 * Built reliable, maintainable software for airline retailing and corporate travel.
 
    
-**Brandverse \- Chikoo									        April. 2022 – June. 2022**  
+**Brandverse \- Chikoo**									        April. 2022 – June. 2022  
 *Full Stack Developer										           Karachi, Pakistan*
 
 * Built an ecommerce product scheduling dashboard & checkout for customers to order internationally.  
 * Scheduling lets customers make rules (templates) to show/hide products at specific time frames in the store.
 
-**Pluton									  		   October. 2021 – April. 2022**  
+**Pluton**									  		   October. 2021 – April. 2022  
 *Software Engineer										           Karachi, Pakistan*
 
 * Built and maintained an app for vaccination booking platform with payments gateway.  
 * Built and maintained an app for digital credentials issuance with customizable theming and credential schema.
 
-**Techtory  								 		March. 2021 – October. 2021**  
+**Techtory**  								 		March. 2021 – October. 2021  
 *Front End Developer		 								           Karachi, Pakistan* 
 
 * Built garage door customization engine and end-to-end shopping flow, using Next.js, Strapi, GSAP, Bootstrap.
 
-**Outcry		 							     		     June. 2019 – August. 2019**  
+**Outcry**		 							     		     June. 2019 – August. 2019  
 *Front End Developer	 									             Remote, Upwork* 
 
 * Built an app for IT product life cycle, feedback, review and completion management system using ClojureScript.
 
 **EDUCATION**   
 	  
-**National University of Science and Technology (NUST)			 	January, 2014 – January, 2019**   
+**National University of Science and Technology (NUST)**			 	January, 2014 – January, 2019   
 *Bachelor of Engineering in Mechanical Engineering					   		           Karachi, Pakistan*
 
 * Designed and developed 3D printer for final year project.
