@@ -2,9 +2,12 @@
 ahmedgeo13@gmail.com **|** (+971) 56 945-1094 **|** Dubai, United Arab Emirates (UAE)  
 [LinkedIn](https://www.linkedin.com/in/ahmed1hsn/) **|** [GitHub](https://github.com/ahmed1hsn)
 
-<details>
-	<summary><b>WORK EXPERIENCE</b> (see more)</summary>
-	
+**SKILLS** 
+
+Requirements & Systems Analysis | Debugging Systems | Responsive Web | JavaScript | TypeScript | MongoDB | Express.js | React.js | Redux | Node.js (MERN Stack) | HTML | CSS | Clojure & ClojureScript | Chrome Devtools | REST APIs | GraphQL | Next.js | Vue.js | Adonis.js | Unpoly.js | PostgreSQL | Knex.js | Datomic | Git | Java | Python | Docker | Object Oriented & Functional Programming | ORM | Software Development Kit (SDK) | Data Transformation | Selenium WebDriver browser automation
+
+**WORK EXPERIENCE**
+
 **AirRetailer**									          	   	  July. 2022 – Present  
 *Full Stack Developer										     	    Dubai, UAE*
 
@@ -40,11 +43,7 @@ ahmedgeo13@gmail.com **|** (+971) 56 945-1094 **|** Dubai, United Arab Emirates 
 *Bachelor of Engineering in Mechanical Engineering					   		           Karachi, Pakistan*
 
 * Designed and developed 3D printer for final year project.
-</details>
 
-**SKILLS** 
-
-Requirements & Systems Analysis | Debugging Systems | Responsive Web | JavaScript | TypeScript | MongoDB | Express.js | React.js | Redux | Node.js (MERN Stack) | HTML | CSS | Clojure & ClojureScript | Chrome Devtools | REST APIs | GraphQL | Next.js | Vue.js | Adonis.js | Unpoly.js | PostgreSQL | Knex.js | Datomic | Git | Java | Python | Docker | Object Oriented & Functional Programming | ORM | Software Development Kit (SDK) | Data Transformation | Selenium WebDriver browser automation
 
 **PROJECTS** 
 
