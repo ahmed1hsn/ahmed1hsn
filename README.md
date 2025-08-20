@@ -2,8 +2,9 @@
 ahmedgeo13@gmail.com **|** (+971) 56 945-1094 **|** Dubai, United Arab Emirates (UAE)  
 [LinkedIn](https://www.linkedin.com/in/ahmed1hsn/) **|** [GitHub](https://github.com/ahmed1hsn)
 
-**WORK EXPERIENCE**
-
+<details>
+	<summary><b>WORK EXPERIENCE</b> (see more)</summary>
+	
 **AirRetailer**									          	   	  July. 2022 – Present  
 *Full Stack Developer										     	    Dubai, UAE*
 
@@ -39,6 +40,7 @@ ahmedgeo13@gmail.com **|** (+971) 56 945-1094 **|** Dubai, United Arab Emirates 
 *Bachelor of Engineering in Mechanical Engineering					   		           Karachi, Pakistan*
 
 * Designed and developed 3D printer for final year project.
+</details>
 
 **SKILLS** 
 
