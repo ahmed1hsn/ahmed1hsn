@@ -2,13 +2,28 @@
 ahmedgeo13@gmail.com **|** (+971) 56 945-1094 **|** Dubai, United Arab Emirates (UAE)  
 [LinkedIn](https://www.linkedin.com/in/ahmed1hsn/) **|** [GitHub](https://github.com/ahmed1hsn)
 
+**ABOUT ME**
+
+- I have worked from simple consumer eCommerce, doctor/patient scheduling applications to IATA NDC standard for online corporate air travel with complex customer requirements, tricky business logic and very complicated third party supplier and payment integrations. 
+- I'm well equipped to lead and transform teams and products. Teams can accomplish what an individual can't.
+- I can efficiently, smoothly debug, re-factor, re-design entire applications and maintain already existing ones.
+- I have worked as bridge between business and technical people.
+- I can use search engines efficiently to find and learn great things.
+- I might be just the right person for your next product or service.
+- For me there's no front-end and back-end, we need to consider a larger spectrum of the system and problem domain.
+
 **SKILLS** 
 
 Requirements & Systems Analysis | Debugging Systems | Responsive Web | JavaScript | TypeScript | MongoDB | Express.js | React.js | Redux | Node.js (MERN Stack) | HTML | CSS | Clojure & ClojureScript | Chrome Devtools | REST APIs | GraphQL | Next.js | Vue.js | Adonis.js | Unpoly.js | PostgreSQL | Knex.js | Datomic | Git | Java | Python | Docker | Object Oriented & Functional Programming | ORM | Software Development Kit (SDK) | Data Transformation | Selenium WebDriver browser automation
 
 **WORK EXPERIENCE**
 
-**AirRetailer**									          	   	  July. 2022 – Present  
+**Index Holding**									        		  October. 2025 – Present
+*Full Stack Developer										     	    Dubai, UAE
+* Developed and maintained the event management platform in PHP, Laravel, MySQL, JavaScript, Vue.
+
+
+**AirRetailer**									          	   	  July. 2022 – October. 2025  
 *Full Stack Developer										     	    Dubai, UAE*
 
 * Analyzed business requirements. Built data models, data structures, business logic, workflows, user interfaces.  
