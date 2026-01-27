@@ -1,5 +1,5 @@
 **Ahmed Hassan (Full Stack Developer)**  
-UI/UX, CRUD Apps Specialist **|** Rapid Application Development (RAD) **|** Rapid Prototyping
+UI/UX, CRUD Apps Specialist **|** Rapid Application Development (RAD) **|** Rapid Prototyping  
 ahmedgeo13@gmail.com **|** (+971) 56 945-1094 **|** Dubai, United Arab Emirates (UAE)  
 [LinkedIn](https://www.linkedin.com/in/ahmed1hsn/) **|** [GitHub](https://github.com/ahmed1hsn)
 
