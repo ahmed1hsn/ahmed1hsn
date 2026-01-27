@@ -116,3 +116,14 @@ Requirements & Systems Analysis | Debugging Systems | Responsive Web | JavaScrip
 * Enable recruitment agencies to share the candidate details and selection process with corporate clients.  
 * Enable corporate clients to see job posts, candidates in the hiring pipeline, status, interview process etc.  
 * Use Machine Learning, Artificial Intelligence, Natural Language Processing and Large Language Models to find relevant resumes to the job posts. Extract keywords from submitted resumes to display in the candidate profile.
+
+**EVENT MANAGEMENT PLATFORM**
+* Developed and maintained an event management platform.
+* Used LAMP Stack and Laravel to deliver products and services for the event management business.
+* Worked on database and application performance.
+* Fixed bugs in existing modules, as well as developed and integrated new modules.
+* Discussed problems with the businesspeople, planned and delivered IT solutions.
+* Worked with GraphQL back-end and Vue front-end.
+* Developed certificates, reports, invoices, and receipts using Stimulsoft editor application.
+* Integrated Stimulsoft with application and SQL database.
+* **Tech:** PHP, Laravel, MySQL, JavaScript, Vue, TypeScript
