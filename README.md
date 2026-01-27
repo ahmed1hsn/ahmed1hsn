@@ -18,8 +18,10 @@ Requirements & Systems Analysis | Debugging Systems | Responsive Web | JavaScrip
 
 **WORK EXPERIENCE**
 
-**Index Holding**									        		  October. 2025 – Present
-*Full Stack Developer										     	    Dubai, UAE
+**Index Holding**									        	  October. 2025 – Present
+
+*_Full Stack Developer_										     	    Dubai, UAE*
+
 * Developed and maintained the event management platform in PHP, Laravel, MySQL, JavaScript, Vue.
 
 
