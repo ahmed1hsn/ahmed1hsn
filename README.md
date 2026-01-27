@@ -8,7 +8,7 @@ ahmedgeo13@gmail.com **|** (+971) 56 945-1094 **|** Dubai, United Arab Emirates 
 - I have worked with back-office IT systems, to make business, sales, marketing, accounting and enterprise resource planning efficient as well. 
 - I'm well equipped to lead and transform teams and products. Teams can accomplish what an individual can't.
 - I can efficiently, smoothly debug, re-factor, re-design entire applications and maintain already existing ones.
-- I have worked as bridge between business and technical people.
+- I have worked as a bridge between business and technical people.
 - I can use search engines efficiently to find and learn great things.
 - I might be just the right person for your next product or service.
 - For me there's no front-end and back-end, we need to consider a larger spectrum of the system and problem domain.
