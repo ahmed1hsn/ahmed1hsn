@@ -8,7 +8,7 @@ ahmedgeo13@gmail.com **|** (+971) 56 945-1094 **|** Dubai, United Arab Emirates 
 - I have worked from simple consumer eCommerce, doctor/patient scheduling applications to IATA NDC standard for online corporate air travel with complex customer requirements, tricky business logic and very complicated third party supplier and payment integrations.
 - I have worked with back-office IT systems, to make business, sales, marketing, accounting and enterprise resource planning efficient as well. 
 - I'm well equipped to lead and transform teams and products. Teams can accomplish what an individual can't.
-- I can efficiently, smoothly debug, re-factor, re-design entire applications and maintain already existing ones.
+- I can efficiently debug, re-factor, re-design entire applications and maintain already existing ones.
 - I have worked as a bridge between business and technical people.
 - I can use search engines efficiently to find and learn great things.
 - I might be just the right person for your next product or service.
@@ -16,7 +16,7 @@ ahmedgeo13@gmail.com **|** (+971) 56 945-1094 **|** Dubai, United Arab Emirates 
 
 **SKILLS** 
 
-Requirements & Systems Analysis | Debugging Systems | Responsive Web | JavaScript | TypeScript | MongoDB | Express.js | React.js | Redux | Node.js (MERN Stack) | HTML | CSS | Clojure & ClojureScript | Chrome Devtools | REST APIs | GraphQL | Next.js | Vue.js | Adonis.js | Unpoly.js | PostgreSQL | Knex.js | Datomic | Git | Java | Python | Docker | Object Oriented & Functional Programming | ORM | Software Development Kit (SDK) | Data Transformation | Selenium WebDriver browser automation
+Requirements & Systems Analysis | Debugging Systems | Responsive Web | JavaScript | TypeScript | MongoDB | Express.js | React.js | Redux | Node.js (MERN Stack) | PHP | Laravel | Symfony | HTML | CSS | Clojure & ClojureScript | Chrome Devtools | REST APIs | GraphQL | Next.js | Vue.js | Adonis.js | Unpoly.js| HTMX | Strapi | Astro | PostgreSQL | Knex.js | Datomic | Git | Java | Python | Docker | Object Oriented & Functional Programming | ORM | Software Development Kit (SDK) | Data Transformation | Selenium WebDriver browser automation
 
 **WORK EXPERIENCE**
 
@@ -24,7 +24,7 @@ Requirements & Systems Analysis | Debugging Systems | Responsive Web | JavaScrip
 
 *_Full Stack Developer_										     	    Dubai, UAE*
 
-* Developed and maintained the event management platform in PHP, Laravel, MySQL, JavaScript, Vue.
+* Developed and maintained the event management platform in PHP, Laravel, MySQL, JavaScript, Vue, Strapi, Astro.
 
 
 **AirRetailer**									          	   	  July. 2022 – October. 2025  
