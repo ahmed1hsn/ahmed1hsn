@@ -20,7 +20,7 @@ Requirements & Systems Analysis | Debugging Systems | Responsive Web | JavaScrip
 
 **WORK EXPERIENCE**
 
-**Index Holding**									        	  October. 2025 – Present
+**INDEX Holding**									        	  October. 2025 – Present
 
 *_Full Stack Developer_										     	    Dubai, UAE*
 
